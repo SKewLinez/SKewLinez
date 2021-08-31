@@ -22,8 +22,8 @@ Here are some ideas to get you started:
  </p>
 
 <p float="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=skewlinez&show_icons=true&theme=material-palenight&count_private=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skewlinez&theme=material-palenight&layout=compact&langs_count=8" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=skewlinez&show_icons=true&theme=material-palenight&count_private=true" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skewlinez&theme=material-palenight&layout=compact&langs_count=8" />
 </p>
 
 <p align="center">
