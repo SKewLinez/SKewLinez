@@ -21,9 +21,9 @@ Here are some ideas to get you started:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=skewlinez&theme=material-palenight" />
  </p>
 
-<p float="left">
+<p float="left" >
   <img height="190" src="https://github-readme-stats.vercel.app/api?username=skewlinez&show_icons=true&theme=material-palenight&count_private=true" />
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skewlinez&theme=material-palenight&layout=compact&langs_count=8" />
+  <img align="right" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skewlinez&theme=material-palenight&layout=compact&langs_count=8" />
 </p>
 
 <p align="center">
