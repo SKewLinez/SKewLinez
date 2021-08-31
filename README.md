@@ -20,9 +20,10 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=skewlinez&theme=material-palenight" />
  </p>
- 
-<img style="float: left; height=180;" src="https://github-readme-stats.vercel.app/api?username=skewlinez&show_icons=true&theme=material-palenight&count_private=true" />
-<img style="float: right; height=180;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skewlinez&theme=material-palenight&layout=compact&langs_count=8" />
+
+<p float="left">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=skewlinez&show_icons=true&theme=material-palenight&count_private=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skewlinez&theme=material-palenight&layout=compact&langs_count=8" />
 </p>
 
 <p align="center">
