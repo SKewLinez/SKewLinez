@@ -22,7 +22,7 @@ Here are some ideas to get you started:
  </p>
 
 <p float="left" >
-  <img height="190" src="https://github-readme-stats.vercel.app/api?username=skewlinez&show_icons=true&theme=material-palenight&count_private=true&include_all_commits=true" />
+  <img height="190" src="https://github-readme-stats.vercel.app/api?username=skewlinez&show_icons=true&theme=material-palenight&count_private=true" />
   <img align="right" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skewlinez&theme=material-palenight&layout=compact&langs_count=8" />
 </p>
 
