@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 </p>
 
 <!-- GitHub Stats  -->
-<!-- ![Skyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=skewlinez&show_icons=true&theme=material-palenight&count_private=true) -->
+<!-- ![Skyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=skewlinez&show_icons=true&theme=material-palenight&count_private=true&include_all_commits=true) -->
 
 <!-- Top Languages -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skewlinez&theme=material-palenight&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
